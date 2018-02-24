@@ -1,0 +1,16 @@
+body {
+  background-color: blue;
+}
+
+img {
+  width: 15%;
+}
+
+.font {
+  color: #FD2F12;
+}
+
+.tiny_text {
+  font-size: 11px;
+  color: #5da82f;
+}
